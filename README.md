@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrajwalShetty-114/CatBoost-Model/master/logo.png" alt="logo" width="120" style="border-radius:50%" height="120"/>
+  <img src="https://raw.githubusercontent.com/PrajwalShetty-114/CatBoost-Model/master/logo.png" alt="logo" width="120" style="border-radius:50" height="120"/>
 </p>
 
 <p align="center">
